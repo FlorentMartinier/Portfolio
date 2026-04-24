@@ -22,7 +22,7 @@ export class AppComponent {
       title: 'Barrel Manager',
       tag: 'Android / Mobile',
       image: 'assets/barrel_manager.webp',
-      description: 'Une application spécialisée pour la gestion et classification de barils.',
+      description: 'Application Android de gestion de vieillissement en fût (Kotlin).',
       link: 'https://play.google.com/store/apps/details?id=com.fmartinier.barrelclassifier&hl=fr',
       transform: ''
     },
@@ -30,7 +30,7 @@ export class AppComponent {
       title: 'Carte de Pizzas',
       tag: 'Web / App',
       image: 'assets/logo_pizza.png',
-      description: 'Interface interactive présentant une sélection gourmande de pizzas.',
+      description: 'Site web de présentation de mes créations de pizzas (Angular, TailwindCSS).',
       link: 'https://pizzas-de-florent.netlify.app/',
       transform: ''
     },
@@ -38,7 +38,7 @@ export class AppComponent {
       title: 'Killer Party',
       tag: 'Game / Social',
       image: 'assets/killer_party.webp',
-      description: 'L\'application compagnon idéale pour organiser vos soirées Killer.',
+      description: 'Application Andoid d’automatisation du jeu \'Killer Party\' (Kotlin).',
       link: 'https://killer-party.en.aptoide.com/app',
       transform: ''
     }
